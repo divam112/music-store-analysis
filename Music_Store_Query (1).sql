@@ -225,6 +225,6 @@ WHERE cc.total_spending = ms.max_spending
 ORDER BY 1;
 
 
-/* source: www.youtube.com/@RishabhMishraOfficial */
+/* source: linkedin.com/in/divam-gupta-63587125b*/
 
 /* Thank You :) */
